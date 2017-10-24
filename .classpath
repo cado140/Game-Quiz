@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Ricardo/Desktop/Programas da Faculdade/db4o-7.4-java/db4o-7.4/lib/db4o-7.4.71.12224-java5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
